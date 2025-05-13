@@ -1,5 +1,7 @@
 # 🛠️ Taller Mecánico - Trabajo Práctico Nº1
 
+Integrantes: Lautaro Altamirano - Renzo Merino
+
 Este proyecto es parte del **Trabajo Práctico Nº1** de la materia. Se trata de una aplicación web **full stack** para gestionar reparaciones de vehículos en un taller mecánico, desarrollada con **Flask (Python)** para el backend, **MySQL** como base de datos y **ReactJS** para el frontend.
 
 ---
